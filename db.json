@@ -1,0 +1,57 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Music"
+      },
+      {
+        "id": 2,
+        "name": "education"
+      },
+      {
+        "id": 3,
+        "name": "think"
+      }
+    ],
+    "videos": [
+      {
+        "id": 2,
+        "name": "Random Video100",
+        "videoUrl": "https://www.youtube.com/embed/An_DFdNow9o",
+        "categoryId": 2,
+        "description": "sdfsdfsdf"
+      },
+      {
+        "id": 1,
+        "name": "New Video",
+        "videoUrl": "https://www.youtube.com/embed/An_DFdNow9o",
+        "categoryId": 2
+      },
+      {
+        "id": 3,
+        "name": "Random Video",
+        "videoUrl": "https://www.youtube.com/embed/An_DFdNow9o",
+        "categoryId": 1
+      },
+      {
+        "id": 7,
+        "name": "Educational Video",
+        "videoUrl": "https://www.youtube.com/embed?v=b0IZo2Aho9Y",
+        "categoryId": 3
+      },
+      {
+        "name": "sdklfmnl",
+        "description": "l;sdf;lsdkf",
+        "videoUrl": "https://www.youtube.com/embed?v=vYjmNHiQEnA",
+        "categoryId": 1,
+        "id": 8
+      },
+      {
+        "name": "Thinking Video",
+        "description": "Best video ever",
+        "videoUrl": "https://www.youtube.com/embed/vYjmNHiQEnA?list=RDvYjmNHiQEnA",
+        "categoryId": 3,
+        "id": 9
+      }
+    ]
+  }
